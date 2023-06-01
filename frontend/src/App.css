@@ -1,0 +1,54 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Georgia;
+}
+.back{
+  background-image: url('https://images.unsplash.com/photo-1619252584172-a83a949b6efd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGlnaHQlMjB0aGVtZXxlbnwwfHwwfHw%3D&w=1000&q=80');
+  min-height: 500px;
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+}
+.about{
+  margin-top: 100px;
+}
+.btn-default
+ 
+{
+ 
+background-color: darkcyan !important;
+ 
+background-repeat: repeat-x;
+ 
+background-image: -o-linear-gradient(top, rgb(23, 91, 91) #2f080e);
+ 
+background-image: linear-gradient(rgb(6, 69, 69), #2f080e);
+ 
+border-color: #2f080e #2f080e hsl(351, 68%, 1.5%);
+ 
+color: #fff !important;
+ 
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.62);
+ 
+}
+ 
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+ 
+background-color: darkcyan !important;
+ 
+background-repeat: repeat-x;
+ 
+background-image: linear-gradient(#fbeded, darkcyan);
+ 
+border-color: rgb(6, 80, 80) rgb(8, 69, 69) darkcyan;
+ 
+color: #333 !important;
+ 
+text-shadow: 0 1px 1px rgba(106, 88, 88, 0.59);
+ 
+}
+
+.txt-width{
+  width: 195px !important;
+}
